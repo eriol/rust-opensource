@@ -1,3 +1,8 @@
+# NOTE #
+
+This repository moved to https://github.com/OpenSourceOrg/rust-opensource
+Please update your bookmark! :)
+
 # rust-opensource #
 
 `rust-opensource` is an API Wrapper that allows you to query the Open Source
